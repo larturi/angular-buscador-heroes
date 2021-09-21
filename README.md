@@ -1,4 +1,4 @@
-# BurgerQueen App
+# Heroes App
 
 ### Angular Heros
 
